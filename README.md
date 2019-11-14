@@ -1,1 +1,1 @@
-# Heuristics and algorithms for emergenct vehicles allocation and dynamic redeployment
+# Heuristics and algorithms for emergency vehicles allocation and dynamic redeployment
